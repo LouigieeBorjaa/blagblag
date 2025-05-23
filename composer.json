@@ -1,0 +1,15 @@
+{
+    "name": "aries/dbmodel",
+    "autoload": {
+        "psr-4": {
+            "Aries\\Dbmodel\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aries Vincent Dajay",
+            "email": "avdajay@gmail.com"
+        }
+    ],
+    "require": {}
+}
