@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 23, 2025 at 08:36 AM
+-- Generation Time: May 23, 2025 at 02:21 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -43,8 +43,7 @@ CREATE TABLE `posts` (
 INSERT INTO `posts` (`id`, `title`, `content`, `author_id`, `created_at`, `updated_at`) VALUES
 (1, 'asdasdas', 'asdasdasdasdas', 1, '2025-05-23 06:28:09', '2025-05-23 06:28:09'),
 (2, 'sdfgsdfg', 'gdfgfdgfd', 1, '2025-05-23 06:28:19', '2025-05-23 06:28:19'),
-(3, 'sdfgsdfg', 'gdfgfdgfd', 1, '2025-05-23 06:29:10', '2025-05-23 06:29:10'),
-(4, 'oten', 'oten dako longganisa', 1, '2025-05-23 06:29:21', '2025-05-23 06:29:21');
+(3, 'sdfgsdfg', 'gdfgfdgfd', 1, '2025-05-23 06:29:10', '2025-05-23 06:29:10');
 
 -- --------------------------------------------------------
 
